@@ -1,2 +1,2 @@
 # Pico-mouse-jiggler-
-Raspberry Pi Pico mouse jiggler 
+MicroPython Raspberry Pi Pico mouse jiggler 
